@@ -17,4 +17,4 @@ function fizzbuzz(fin) {
     }
 }
 
-fizzbuzz(10);
+fizzbuzz(100);
